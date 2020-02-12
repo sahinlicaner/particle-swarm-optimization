@@ -11,4 +11,5 @@ Rastrigin
 ![alt text](https://i.ibb.co/VHDg396/rastrigin.jpg)
 
 Requirements:
+
   *Matplotlib
