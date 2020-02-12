@@ -12,5 +12,4 @@ Rastrigin
 
 Requirements:
 
-  *Matplotlib
-  *Numpy
+  matplotlib, numpy
